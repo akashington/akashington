@@ -1,1 +1,1 @@
-![akashington's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashington&theme=nord&show_icons=true&hide=issues&include_all_commits=true&hide_border=true)
+![akashington's GitHub stats](https://github-readme-stats-git-main-velkrotechnologies-projects.vercel.app/api?hide_border=true&hide=issues&include_all_commits=true&username=akashington&theme=nord&show_icons=true)
